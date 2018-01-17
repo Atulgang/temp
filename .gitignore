@@ -1,0 +1,13 @@
+# Ignore everything
+*
+# Don't ignore directories, so we can recurse into them
+!*/
+# ignore the dataset
+/LegalAdhocTask/
+
+# Don't ignore .gitignore and *.foo files
+!.gitignore
+!*.ipynb
+!*.xlsx
+!*.pdf
+!*.odt
