@@ -13,3 +13,5 @@
 !*.txt
 # ignore the dataset
 /LegalAdhocTask/
+/mini_corpus/
+
